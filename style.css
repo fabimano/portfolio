@@ -1,0 +1,24 @@
+body {
+    background-color: #000; /* Fundo preto */
+    color: #fff; /* Texto branco */
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    line-height: 1.6;
+  }
+
+  h1, h2 {
+    color: #00bfff; /* Azul para destaque dos títulos */
+  }
+
+  a {
+    color: #00bfff;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  ul {
+    list-style-type: square;
+  }
