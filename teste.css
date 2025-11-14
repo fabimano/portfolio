@@ -1,0 +1,18 @@
+body{
+    background:black (38, 107, 128);
+}
+
+img{
+    display: block; /* define como um bloco */
+    margin: 40px auto; /* centraliza horizontalmente */
+    width: 600px; /*largura*/
+    height: 400px; /*altura*/
+    object-fit: cover; /* preenchimento da area com  recorte */
+    border-radius: 12px; 
+}
+
+img.is-expanded {
+     transform: scale(1.06);
+     box-shadow: 0 16px 44px rgba(14,165,233,0.25);
+
+}
